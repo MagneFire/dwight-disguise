@@ -11,9 +11,9 @@ Firstly you'll need to clone this repository:
 git clone https://github.com/MagneFire/dwight-disguise.git
 cd dwight-disguise
 ```
-Then depending on the USB mode of your watch you can either chose to install using SSH/SCP or ADB mode.
+Then depending on the USB mode of your watch you can either chose to install using Developer or ADB mode.
 
-To install using SSH/SCP mode use the command:
+To install using Developer mode use the command:
 ```bash
 ./push.sh
 ```
