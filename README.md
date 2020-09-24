@@ -23,6 +23,10 @@ To install using ADB mode use the command:
 ./push.sh adb
 ```
 
+## Tired of Dwight?
+
+How can you ever be tired of Dwight!? Anyway, to use your own animated `gifs` all you have to do is replace/add them to the `dwight-disguise` folder. Then just repeat the `push.sh` command from the install instructions, you may need to remove the previous images from the watch.
+
 ## Credits
 
 Original idea is taken from: https://www.reddit.com/r/DunderMifflin/comments/bqpnqc/thought_yall_would_like_my_apple_watch_face_i/
